@@ -1,0 +1,92 @@
+.titulos{
+    font-family: 'Russo One', sans-serif;;
+}
+
+.parrafonosotros{
+    font-family: 'Saira', sans-serif;
+    font-size: 14.7px ;
+    text-align: justify;
+}
+
+.navbar{
+    font-size: 17px;
+    position: fixed;
+    margin-top: 30px;
+    top:0;
+    width:100%;
+}
+
+.carrusel{
+    margin-top:90px;
+}
+
+.tarjetas{
+    margin-top: 20px;
+    height: auto;
+}
+
+.plataformas{
+    font-family: 'Saira', sans-serif;
+    font-size: 14.5px;
+}
+
+.planes{
+    margin-top: 20px;
+}
+
+.btn{
+    margin-top: 20px;
+}
+
+.piepagina{
+    text-align: justify;
+    font-family: 'Saira', sans-serif;
+    color: aliceblue;
+    font-size: 12px;
+    margin-left: 100px;
+    margin-right: 100px;
+}
+
+.pagos{
+    width: 100%;
+    font-family: 'Saira', sans-serif;
+}
+
+.derechos{
+    color: aliceblue;
+    font-size: 12px;
+}
+
+.contenedor-planes{
+    font-family: 'Saira', sans-serif;
+}
+
+.form-group{
+    width: 450px;
+}
+
+.form-control{
+    background-color: darkgray;
+}
+
+*{
+    font-family: 'Saira', sans-serif;
+}
+
+.whatsapp{
+    color: green;
+    font-size: 1.2em;
+}
+
+.pie-compras{
+    color: white;
+    font-size: 0.8em;
+    justify-content: space-between;
+}
+
+.nav{
+    font-size: 17px;
+    top:0;
+    width:100%;
+}
+
